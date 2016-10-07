@@ -28,3 +28,6 @@
 [submodule "fzf.vim"]
 	path = fzf.vim
 	url = git@github.com:junegunn/fzf.vim.git
+[submodule "vim-bundler"]
+	path = vim-bundler
+	url = git://github.com/tpope/vim-bundler.git
