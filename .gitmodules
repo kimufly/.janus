@@ -7,3 +7,18 @@
 [submodule "taglist.vim"]
 	path = taglist.vim
 	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "vim-rails"]
+  path = vim-rails
+  url = https://github.com/tpope/vim-rails.git
+[submodule "accelerated-smooth-scroll"]
+  path = accelerated-smooth-scroll
+  url = https://github.com/yonchu/accelerated-smooth-scroll.git
+[submodule "numbers.vim"]
+  path = numbers.vim
+  url = https://github.com/myusuf3/numbers.vim.git
+[submodule "taglist.vim"]
+  path = taglist.vim
+  url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "vim-indent-guides"]
+  path = vim-indent-guides
+  url = https://github.com/nathanaelkane/vim-indent-guides
