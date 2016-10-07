@@ -22,3 +22,6 @@
 [submodule "vim-indent-guides"]
   path = vim-indent-guides
   url = https://github.com/nathanaelkane/vim-indent-guides
+[submodule "vim-gitgutter"]
+	path = vim-gitgutter
+	url = git@github.com:airblade/vim-gitgutter.git
